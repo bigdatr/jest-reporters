@@ -2,7 +2,7 @@
   "name": "jest-reporters",
   "version": "0.0.1",
   "description": "Output test results to various file formats for jest tests",
-  "main": "index.js",
+  "main": "lib/jest-reporters.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/bigdatr/jest-reporters/issues"
   },
-  "homepage": "https://github.com/bigdatr/jest-reporters"
+  "homepage": "https://github.com/bigdatr/jest-reporters",
+  "dependencies": {
+    "mkdirp": "^0.5.0"
+  }
 }
