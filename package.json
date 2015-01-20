@@ -1,0 +1,25 @@
+{
+  "name": "jest-reporters",
+  "version": "0.0.1",
+  "description": "Output test results to various file formats for jest tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bigdatr/jest-reporters.git"
+  },
+  "keywords": [
+    "jest",
+    "junit",
+    "jasmine",
+    "reporters"
+  ],
+  "author": "Atridge D'Costa",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/bigdatr/jest-reporters/issues"
+  },
+  "homepage": "https://github.com/bigdatr/jest-reporters"
+}
