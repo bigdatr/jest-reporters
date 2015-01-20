@@ -1,6 +1,6 @@
 {
   "name": "jest-reporters",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Output test results to various file formats for jest tests",
   "main": "lib/jest-reporters.js",
   "scripts": {
